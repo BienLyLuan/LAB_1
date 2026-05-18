@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Vivado/Vitis/LED_test/build",
+  "command": "D:\\Xilijnx\\Vitis\\2024.1\\gnu\\aarch32\\nt\\gcc-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -isystem D:/Vivado/Vitis/first_zynq_platform/export/first_zynq_platform/sw/standalone_ps7_cortexa9_0/include -isystem D:/Xilijnx/Vitis/2024.1/gnu/aarch32/nt/gcc-arm-none-eabi/x86_64-oesdk-mingw32/usr/lib/arm-xilinx-eabi/gcc/arm-xilinx-eabi/12.2.0/include -isystem D:/Xilijnx/Vitis/2024.1/gnu/aarch32/nt/gcc-arm-none-eabi/x86_64-oesdk-mingw32/usr/lib/arm-xilinx-eabi/gcc/arm-xilinx-eabi/12.2.0/include-fixed -isystem D:/Xilijnx/Vitis/2024.1/gnu/aarch32/nt/gcc-arm-none-eabi/aarch32-xilinx-eabi/usr/include  -O2 -DSDT -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -MMD -MP -specs=D:/Vivado/Vitis/first_zynq_platform/export/first_zynq_platform/sw/standalone_ps7_cortexa9_0/Xilinx.spec -ID:/Vivado/Vitis/first_zynq_platform/export/first_zynq_platform/sw/standalone_ps7_cortexa9_0/include -Wall -Wextra      -O0  -g3     -U__clang__ -o CMakeFiles\\LED_test.elf.dir\\LED_test_tut_1C.c.obj -c D:\\Vivado\\Vitis\\LED_test\\src\\LED_test_tut_1C.c",
+  "file": "D:\\Vivado\\Vitis\\LED_test\\src\\LED_test_tut_1C.c"
+}
+]

@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Mon May 18 08:29:43 2026
+# Process ID: 54080
+# Current directory: D:/Vivado/first_zynq_design_verilog/first_zynq_design_verilog.runs/impl_1
+# Command line: vivado.exe -log first_zynq_system_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source first_zynq_system_wrapper.tcl -notrace
+# Log file: D:/Vivado/first_zynq_design_verilog/first_zynq_design_verilog.runs/impl_1/first_zynq_system_wrapper.vdi
+# Journal file: D:/Vivado/first_zynq_design_verilog/first_zynq_design_verilog.runs/impl_1\vivado.jou
+# Running On        :DESKTOP-UQ0LTOR
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26200
+# Processor Detail  :AMD Ryzen 5 7535HS with Radeon Graphics        
+# CPU Frequency     :3294 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :7863 MB
+# Swap memory       :20965 MB
+# Total Virtual     :28828 MB
+# Available Virtual :10998 MB
+#-----------------------------------------------------------
+source first_zynq_system_wrapper.tcl -notrace
